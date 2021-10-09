@@ -1,5 +1,5 @@
 {
-  "name": "cat-api",
+  "name": "backend-starter",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -8,6 +8,11 @@
     "migrate": "npx prisma migrate dev",
     "studio": "npx prisma studio"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grey939597/backend-starter.git"
+  },
+  "homepage": "https://github.com/grey939597/backend-starter#readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
